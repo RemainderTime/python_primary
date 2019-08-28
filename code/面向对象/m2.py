@@ -9,6 +9,7 @@ class Student():
     name = '77'   #类变量
     sum = 5
     source=0
+    __test=2
  
      #构造方法
     def __init__(self,name):
@@ -40,6 +41,12 @@ class Student():
 
 student = Student('哈哈')#实例变量
 print(student.name)
+
+#无法进行私有变量调用，因为python的动态机制，这里其实是中心定义了一个变量__test
+#原来的变量编程了 类名加变量名  如：_Student__test
+student.__test=2
+print(student.__test)
+print(student.__dict__)
 
 
 #调用类变量 方式2
