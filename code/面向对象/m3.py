@@ -1,4 +1,4 @@
-#继承性
+#继承性   2019-8-28
 from m4 import Human
 class Student(Human):
     
