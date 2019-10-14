@@ -1,6 +1,6 @@
 # 使用函数替换操作
 import re
-a='PythonC#Java'
+a ='Abc5566555'
 
 #函数
 def show(value):
@@ -9,8 +9,11 @@ def show(value):
     #print(value)
     #获取集体的值
     matched = value.group()
-    return "!!"+matched+"!!"
+    if int(matched) >= 6:
+        return '9'
+    else:
+        return "5"
 
-r = re.sub('C#',show,a,1)
+r = re.sub('55',show,a)
 
 print(r)
