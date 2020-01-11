@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="016d1120-68c7-405b-b7f4-dc3231ab1b48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VjeORSsv5WAMnjp7YPbzrlbI3V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day07_字符串" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\python\python_day100\day07_字符串" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python._06_集合_01">
+    <configuration name="_04_列表_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07_字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\project\python\python_day100\day07_字符串\_04_列表_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_04_列表_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07_字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07_字符串/_04_列表_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_04_列表_04_生成式和生成器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07_字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07_字符串/_04_列表_04_生成式和生成器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_05_元组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07_字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07_字符串/_05_元组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_06_集合_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07_字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\project\python\python_day100\day07_字符串\_06_集合_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._06_集合_01" />
+        <item itemvalue="Python._05_元组" />
+        <item itemvalue="Python._04_列表_04_生成式和生成器" />
+        <item itemvalue="Python._04_列表_03" />
+        <item itemvalue="Python._04_列表_02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="016d1120-68c7-405b-b7f4-dc3231ab1b48" name="Default Changelist" comment="" />
+      <created>1577770898089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577770898089</updated>
+      <workItem from="1577770899396" duration="9216000" />
+      <workItem from="1578623637172" duration="11770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577771125778">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577771125778" />
+    <state width="913" height="152" key="GridCell.Tab.0.bottom" timestamp="1578636654799">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state width="1877" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577780241652" />
+    <state width="913" height="152" key="GridCell.Tab.0.bottom/65.0.1855.1080@65.0.1855.1080" timestamp="1578636654799" />
+    <state width="913" height="152" key="GridCell.Tab.0.center" timestamp="1578636654799">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state width="1877" height="214" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577780241652" />
+    <state width="913" height="152" key="GridCell.Tab.0.center/65.0.1855.1080@65.0.1855.1080" timestamp="1578636654799" />
+    <state width="913" height="152" key="GridCell.Tab.0.left" timestamp="1578636654799">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state width="1877" height="214" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577780241652" />
+    <state width="913" height="152" key="GridCell.Tab.0.left/65.0.1855.1080@65.0.1855.1080" timestamp="1578636654799" />
+    <state width="913" height="152" key="GridCell.Tab.0.right" timestamp="1578636654799">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state width="1877" height="214" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577780241652" />
+    <state width="913" height="152" key="GridCell.Tab.0.right/65.0.1855.1080@65.0.1855.1080" timestamp="1578636654799" />
+    <state width="913" height="114" key="GridCell.Tab.1.bottom" timestamp="1578631539652">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state width="913" height="114" key="GridCell.Tab.1.bottom/65.0.1855.1080@65.0.1855.1080" timestamp="1578631539652" />
+    <state width="913" height="114" key="GridCell.Tab.1.center" timestamp="1578631539652">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state width="913" height="114" key="GridCell.Tab.1.center/65.0.1855.1080@65.0.1855.1080" timestamp="1578631539652" />
+    <state width="913" height="114" key="GridCell.Tab.1.left" timestamp="1578631539652">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state width="913" height="114" key="GridCell.Tab.1.left/65.0.1855.1080@65.0.1855.1080" timestamp="1578631539652" />
+    <state width="913" height="114" key="GridCell.Tab.1.right" timestamp="1578631539652">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state width="913" height="114" key="GridCell.Tab.1.right/65.0.1855.1080@65.0.1855.1080" timestamp="1578631539652" />
+    <state x="463" y="185" key="SettingsEditor" timestamp="1577771071560">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577771071560" />
+    <state x="854" y="278" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1577771111675">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="854" y="278" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1920.1080@0.0.1920.1080" timestamp="1577771111675" />
+    <state x="661" y="310" width="672" height="678" key="search.everywhere.popup" timestamp="1578632970317">
+      <screen x="65" y="0" width="1855" height="1080" />
+    </state>
+    <state x="617" y="310" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1577779876897" />
+    <state x="661" y="310" width="672" height="678" key="search.everywhere.popup/65.0.1855.1080@65.0.1855.1080" timestamp="1578632970317" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_day100$_01_.coverage" NAME="_01_ Coverage Results" MODIFIED="1578625232639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+    <SUITE FILE_PATH="coverage/python_day100$_04__03.coverage" NAME="_04_列表_03 Coverage Results" MODIFIED="1578634376514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+    <SUITE FILE_PATH="coverage/demo01$_01_.coverage" NAME="_01_水仙花数 Coverage Results" MODIFIED="1577775609005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/python_day100$_03_.coverage" NAME="_03_格式化 Coverage Results" MODIFIED="1578631594652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+    <SUITE FILE_PATH="coverage/demo01$_04_.coverage" NAME="_04_斐波那契数列 Coverage Results" MODIFIED="1577776913370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/demo01$_01_and.coverage" NAME="_01_最大公约数and最小公倍数 Coverage Results" MODIFIED="1577780241647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/demo01$_05_.coverage" NAME="_05_完美数 Coverage Results" MODIFIED="1577777559286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/python_day100$_02_.coverage" NAME="_02_ Coverage Results" MODIFIED="1578626928407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+    <SUITE FILE_PATH="coverage/demo01$_06_.coverage" NAME="_06_素数 Coverage Results" MODIFIED="1577778219132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/python_day100$_04__04_.coverage" NAME="_04_列表_04_生成式和生成器 Coverage Results" MODIFIED="1578635910682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+    <SUITE FILE_PATH="coverage/demo01$_01.coverage" NAME="_01 Coverage Results" MODIFIED="1577771182278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/python_day100$_06_.coverage" NAME="_06_集合 Coverage Results" MODIFIED="1578636654791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+    <SUITE FILE_PATH="coverage/demo01$02_.coverage" NAME="02_循环 Coverage Results" MODIFIED="1577771655118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/python_day100$_04_01.coverage" NAME="_04_列表01 Coverage Results" MODIFIED="1578633101590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+    <SUITE FILE_PATH="coverage/demo01$_04_and.coverage" NAME="_04_最大公约数and最小公倍数 Coverage Results" MODIFIED="1577774670294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/demo01$_03_.coverage" NAME="_03_百钱白鸡问题 Coverage Results" MODIFIED="1577775896865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/python_day100$_04_02.coverage" NAME="_04_列表02 Coverage Results" MODIFIED="1578633510082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+    <SUITE FILE_PATH="coverage/demo01$_02_.coverage" NAME="_02_正整数翻转 Coverage Results" MODIFIED="1577775669085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/python_day100$_05_.coverage" NAME="_05_元组 Coverage Results" MODIFIED="1578636035923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07_字符串" />
+  </component>
+</project>
