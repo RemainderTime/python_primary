@@ -12,8 +12,8 @@ def show(value):
     if int(matched) >= 6:
         return '9'
     else:
-        return "5"
+        return "7"
 
-r = re.sub('55',show,a)
+r = re.sub('65',show,a)
 
 print(r)

@@ -1,7 +1,7 @@
 #组  ()
 import re
 
-a='pythonpythonpython'
+a='pythonpythonpython222'
 
 r = re.findall('(python){3}',a)
 
